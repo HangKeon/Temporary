@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>제목</title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+<table>
+	<caption>계획표</caption>
+	<thead>
+		<tr><td></td><th>현재상태<th><th></th><th>문제점</th><th>해결방안</th></tr>
+	</thead>
+	<tbody>
+		<tr><th>장동건</th><td>양호</td><td colspan="2">X</td><td>없음</td><td></td></tr>
+		<tr><th>김태희</th><td>나쁨</td><td colspan="2">O</td><td>배가 고픔</td><td>식사</td></tr>
+		<tr><th>원빈</th><td>양호</td><td colspan="2">O</td><td>졸림</td><td>수면</td></tr>
+		<tr><th></th></tr>
+
+
+	</tbody>
+
+</table>
+
+</table>
+</body>
+</html>
